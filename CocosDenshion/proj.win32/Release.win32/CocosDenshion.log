@@ -1,0 +1,17 @@
+﻿Построение начато 14.07.2014 3:56:44.
+     1>Проект "D:\Developer\Ponies\CocosDenshion\proj.win32\CocosDenshion.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Release.win32\libCocosDenshion.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         CocosDenshion.vcxproj -> D:\Developer\Ponies\Project\proj.win32\Release.win32\libCocosDenshion.dll
+       FinalizeBuildStatus:
+         Файл "Release.win32\libCocosDenshion.unsuccessfulbuild" удаляется.
+         Обращение к "Release.win32\libCocosDenshion.lastbuildstate".
+     1>Построение проекта "D:\Developer\Ponies\CocosDenshion\proj.win32\CocosDenshion.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.49

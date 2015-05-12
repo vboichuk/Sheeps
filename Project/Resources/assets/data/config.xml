@@ -1,0 +1,70 @@
+<data>
+    
+    <levels>
+	<level id="0" sheeps="10"  dogs="3" time="30" >
+            <paddock>				
+				<point x="270" y="130" />
+				<point x="300" y="100" />
+				<point x="300" y="0" />
+				<point x="0" y="0" />
+				<point x="0" y="300" />
+				<point x="100" y="300" />
+				<point x="130" y="270" />
+			</paddock>
+        </level>
+	
+        <level id="1" sheeps="15"  dogs="4" time="30" >
+            <paddock>				
+				<point x="270" y="130" />
+				<point x="300" y="100" />
+				<point x="300" y="0" />
+				<point x="0" y="0" />
+				<point x="0" y="300" />
+				<point x="100" y="300" />
+				<point x="130" y="270" />
+			</paddock>
+        </level>
+		
+		<level id="2" sheeps="20"  dogs="5" time="30" >
+            <paddock>				
+				<point x="270" y="130" />
+				<point x="300" y="100" />
+				<point x="300" y="0" />
+				<point x="0" y="0" />
+				<point x="0" y="300" />
+				<point x="100" y="300" />
+				<point x="130" y="270" />
+			</paddock>
+        </level>
+		
+		<level id="3" sheeps="25"  dogs="3" time="30" >
+            <paddock>				
+				<point x="270" y="130" />
+				<point x="300" y="100" />
+				<point x="300" y="0" />
+				<point x="0" y="0" />
+				<point x="0" y="300" />
+				<point x="100" y="300" />
+				<point x="130" y="270" />
+			</paddock>
+        </level>
+		
+		<level id="4" sheeps="300"  dogs="100" time="50" >
+            <paddock>				
+				<point x="270" y="130" />
+				<point x="300" y="100" />
+				<point x="300" y="0" />
+				<point x="0" y="0" />
+				<point x="0" y="300" />
+				<point x="100" y="300" />
+				<point x="130" y="270" />
+			</paddock>
+        </level>
+
+   
+    </levels>
+    
+    <dog w="120" h="100" radius="100" speed="300" />
+    <sheep w="80" h="80" speed="150" />
+    
+</data>
